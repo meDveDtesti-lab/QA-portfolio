@@ -43,4 +43,4 @@
 **Серьезность:** *Major*
 
 **Дополнительные материалы:**
-![Кнопка фильтрации](QA-portfolio/attachments/bug-report-666)
+![Кнопка фильтрации](../attachments/bug-report-666)
