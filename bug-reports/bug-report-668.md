@@ -30,7 +30,7 @@
 
 **ФР:**
 1. При нажатии на кнопку “Add to cart“ на товарах с названием “Sauce Labs Backpack” “Sauce Labs Bike Light“ “Sauce Labs Onesie“ счетчик товаров в корзине увеличился на “3“
-2. При нажатии на кнопку “Add to cart“ на товарах с названием “Sauce Labs Bolt T-Shirt“ “Sauce Labs Fleece Jacket“ “Test.allTheThings() T-Shirt (Red)“ счетчик товаров на корзине не увеличивается
+2. При нажатии на кнопку “Add to cart“ на товарах с названием “Sauce Labs Bolt T-Shirt“ “Sauce Labs Fleece Jacket“ “Test.allTheThings() T-Shirt (Red)“ счетчик товаров в корзине не увеличивается
 3. Из 6 товаров в корзину добавлено 3
 
 **ОР:**
