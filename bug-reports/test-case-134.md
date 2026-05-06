@@ -8,11 +8,11 @@
 
 - Логин: qwerty_user
 - Пароль: secret_sauce
-- Сайт: saucedemo.com
+- Сайт: [Swag Labs](saucedemo.com)
 
 **Предусловие:**
 1. Открыть браузер
-2. Перейти на сайт saucedemo.com
+2. Перейти на сайт [Swag Labs](saucedemo.com)
 3. Страница авторизации загружен, поля логина и пароля активны
 
 **Шаги:**
