@@ -5,10 +5,10 @@
 В каталоге товаров есть возможность добавить в корзину только определенные товары, а именно товары с названиями “Sauce Labs Backpack” “Sauce Labs Bike Light“ “Sauce Labs Onesie“
 
 **Окружение:**
-ОС: Windows 10 pro 22h2 19045.6456
-Браузер: Chrome Версия: 147.0.7727.117
-Сайт: [Swag Labs](saucedemo.com)
-Версия сайта: Production
+1. ОС: Windows 10 pro 22h2 19045.6456
+2. Браузер: Chrome Версия: 147.0.7727.117
+3. Сайт: [Swag Labs](saucedemo.com)
+4. Версия сайта: Production
 
 **Тестовые данные:**
 - Логин: problem_user
